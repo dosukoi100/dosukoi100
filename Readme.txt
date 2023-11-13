@@ -1,0 +1,4 @@
+AzureのCustomVisionAPIを使ったStremlitでの物体検出
+
+機能
+・ヘルメット、フルハーネス、腕章を検出する

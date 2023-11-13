@@ -1,0 +1,10 @@
+{
+	"ENDPOINT":"エンドポイントを指定",
+	"TRAINING_KEY":"トレーニングキーを指定",
+	"ENDPOINT1":"エンドポイント1を指定",
+	"PREDICTION_KEY":"プリディクションキーを指定",
+	"PREDICTION_RESOURCE_ID":"プリディクションリソースIDを指定"
+
+
+}
+
